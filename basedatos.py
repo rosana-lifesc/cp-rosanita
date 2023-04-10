@@ -11,6 +11,8 @@ def split_nema(n):
     return n.split("_")[0].lower()
 
 
+# cretes a dataframe and outputs a new column with
+# useful data
 def create_data():
     cp_feeding = pd.read_csv("data/cp+feeding.csv", sep=";")
     nema = pd.read_excel("data/nema_cpanalysis.xlsx")
