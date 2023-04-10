@@ -1,0 +1,101 @@
+﻿Ref;SP ;FEEDING;CP;MASS;STDERR_MASS;ORDER;FAMILY
+1;Aporcelaimellus spp;5;5;9,6337;1,4555;Dorylaimida;Aporcelaimidae
+2;Aporcelaimellus cf. amylovorus;5;5;9,6337;1,4555;Dorylaimida;Aporcelaimidae
+3;Aporcelaimellus obtusicaudatus;5;5;9,6337;1,4555;Dorylaimida;Aporcelaimidae
+4;Aporcelaimellus (macrop.);5;5;9,6337;1,4555;Dorylaimida;Aporcelaimidae
+5;Basirotyleptus cf. ethiopicus;2;4;0,2125;0,0263;Dorylaimida;Leptonchidae
+6;Chitwoodiellus parafuscus;2;4;0,9295;0,0423;Dorylaimida;Tylencholaimidae
+7;Chrysonema limigenus;8;4;1,4284;0,4734;Dorylaimida;Crateronematidae
+8;Clavicaudoides clavicaudatus;5;5;0,3511;0,0004;Dorylaimida;Nygolaimidae
+9;Diphtherophora cf. obesa;2;3;0,5039;0,0852;Triplonchida;Diphtherophoridae
+10;Dorylaimellus sp.;1;5;0,3034;0,0596;Dorylaimida;Dorylaimellidae
+11;Dorylaimoides limnophilus;8;4;1,1164;0,0969;Dorylaimida;Mydonomidae
+12;Dorylaimus asymphydorus;8;4;42,7653;7,9522;Dorylaimida;Mydonomidae
+13;Dorylaimus stagnalis;8;4;42,7653;7,9522;Dorylaimida;Mydonomidae
+14;Dorylaimus sp. (Muy largo);8;4;42,7653;7,9522;Dorylaimida;Mydonomidae
+15;Doryllium (gracile);2;4;0,236;0,0357;Dorylaimida;Leptonchidae
+16;Enchodelus morgensis;8;4;3,6802;0,2592;Dorylaimida;Nordiidae
+17;Enchodelus saxifragae;8;4;3,6802;0,2592;Dorylaimida;Nordiidae
+18;Enchodorus sp.;8;4;2,2952;0,1708;Dorylaimida;Nordiidae
+19;Epidorylaimus  consobrinus;8;4;1,8919;0,3862;Dorylaimida;Qudsianematidae
+20;Eudorylaimus bombilectus;5;4;3,1855;0,2718;Dorylaimida;Qudsianematidae
+21;Eudorylaimus subdigitalis;5;4;3,1855;0,2718;Dorylaimida;Qudsianematidae
+22;Laimydorus pseudostagnalis;8;4;4,269;0,6218;Dorylaimida;Dorylaimidae
+23;Longidorella cf. tredecima;1;4;0,595;0,1041;Dorylaimida;"	Nordiidae"
+24;Longidorus sp.;1;5;16,2193;1,7087;Dorylaimida;Longidoridae
+25;Mesodorylaimus aberrans;8;4;1,2813;0,0853;Dorylaimida;Dorylaimidae
+26;Mesodorylaimus cf. aegypticus;8;4;1,2813;0,0853;Dorylaimida;Dorylaimidae
+27;Mesodorylaimus cf. litoralis;8;4;1,2813;0,0853;Dorylaimida;Dorylaimidae
+28;Mesodorylaimus ibericus;8;4;1,2813;0,0853;Dorylaimida;Dorylaimidae
+29;Mesodorylaimus ornativulvatus;8;4;1,2813;0,0853;Dorylaimida;Dorylaimidae
+30;Mesodorylaimus potus;8;4;1,2813;0,0853;Dorylaimida;Dorylaimidae
+31;Mesodorylaimus cf. procerus;8;4;1,2813;0,0853;Dorylaimida;Dorylaimidae
+32;Mesodorylaimus recurvus;8;4;1,2813;0,0853;Dorylaimida;Dorylaimidae
+33;Mesodorylaimus sp.;8;4;1,2813;0,0853;Dorylaimida;Dorylaimidae
+34;Nygolaimus similis;5;5;5,7902;2,5107;Dorylaimida;"	Nygolaimidae"
+35;Oxydirus cf. loofi;5;5;1,8784;0,3673;Dorylaimida;Swangeriidae
+36;Oxydirus oxycephaloides;5;5;1,8784;0,3673;Dorylaimida;Swangeriidae
+37;Oxydirus cf. thornei;5;5;1,8784;0,3673;Dorylaimida;Swangeriidae
+38;Paractinolaimus microdentatus;5;5;6,858;0,6209;Dorylaimida;"	Actinolaimidae"
+39;Paraxonchium carmenae;5;5;5,2349;1,8961;Dorylaimida;"	Paraxonchiidae"
+40;Prodorylaimus acris;8;4;5,6305;1,3491;Dorylaimida;"	Dorylaimidae"
+41;Prodorylaimus filiarum;8;4;5,6305;1,3491;Dorylaimida;"	Dorylaimidae"
+42;Crassolabium rhopalocercum;8;4;1,57;0,2183;Dorylaimida;"	Dorylaimidae"
+43;Thornia steatopyga;8;4;0,8752;0,0714;Dorylaimida;Thorniidae
+44;Tylencholaimus constrictus;2;4;0,4303;0,0423;Dorylaimida;Tylencholaimidae
+45;Tylencholaimus proximus;2;4;0,4303;0,0423;Dorylaimida;Tylencholaimidae
+46;Tylencholaimellus striatus;2;4;0,7092;0,0839;Dorylaimida;Tylencholaimellidae
+47;Xiphinema pachtaicum;1;5;5,5154;0,5848;Dorylaimida;Longidoridae
+48;Xiphinema cf. turcicum;1;5;5,5154;0,5848;Dorylaimida;Longidoridae
+49;Acrobeles complexus;3;2;0,6403;0,1538;Rhabditida;Cephalobidae
+50;Acrobeloides buetschlii;3;2;1,2632;0,5572;Rhabditida;Cephalobidae
+51;Acrobeloides setosus;3;2;1,2632;0,5572;Rhabditida;Cephalobidae
+52;Acrostichus nudicapitatus;3;1;0,6049;0,1273;Diplogastrida;Diplogastridae
+53;Cephalobus persegnis;3;2;0,2662;0,0397;Rhabditida;Cephalobidae
+54;Chiloplacus trilineatus;3;2;0,5343;0,0778;Rhabditida;Cephalobidae
+55;Eucephalobus mucronatus;3;2;0,2358;0,0307;Rhabditida;Cephalobidae
+56;Mesorhabditis sp.;3;1;0,5676;0,075;Rhabditida;rhabditidae
+57;Mononchoides ruffoi;5;1;1,2108;1,1516;Rhabditida;Neodiplogastridae
+58;Panagrolaimus rigidus;3;1;0,6602;0,0895;Rhabditida;Panagrolaimidae
+59;Paroigolaimella bernensis;3;1;1,2039;0,3084;Diplogastrida;"	Diplogastridae"
+60;Pelodera cf. punctata;3;1;8,5003;0,8263;Rhabditida;Rhabditidae
+61;Propanagrolaimus filiformis;3;1;0,6098;0,1437;Rhabditida;Panagrolaimidae
+62;Propanagrolaimus hygrophilus;3;1;0,6098;0,1437;Rhabditida;Panagrolaimidae
+63;Pseudacrobeles eurystoma;3;2;0,217;0,0189;Rhabditida;cephalobidae
+64;Pseudacrobeles unguicolis;3;2;0,217;0,0189;Rhabditida;cephalobidae
+65;Rhabditis sp.;3;1;7,4997;2,8186;Rhabditida;rhabditidae
+66;Stegelletina devimucronata;3;2;0,0734;0,0175;Rhabditida;cephalobidae
+67;clarkus papillatus;5;4;3,7945;1,1944;Mononchida;Mononchidae
+68;Clarkus;5;4;3,7945;1,1944;Mononchida;Mononchidae
+69;Mylonchulus sigmaturus;5;4;1,7614;0,1545;Mononchida;Mylonchulidae
+70;Mononchus aquaticus;5;4;4,4669;0,6337;Mononchida;"	Mononchidae"
+71;Mononchus truncatus;5;4;4,4669;0,6337;Mononchida;Mononchidae
+72;Prionchulus muscorum;5;4;11,5883;1,641;Mononchida;Mononchidae
+73;Eumonhystera vulgaris;3;2;0,205;0,0633;Monhysterida;Monhysteridae
+74;Eumonhystera pseudobulbosa;3;2;0,205;0,0633;Monhysterida;Monhysteridae
+75;Monhystera paludicola;3;2;1,0108;0,1753;Monhysterida;"	Monhysteridae"
+76;Monhystera stagnalis;3;2;1,0108;0,1753;Monhysterida;"	Monhysteridae"
+77;Aphelenchoides sp.;2;2;0,1527;0,0122;Rhabditida;Aphelenchoididae
+78;Aphanolaimus cf. aquaticus;3;3;0,3209;0,0717;Rhabditida;Aphanolaimidae
+79;Chronogaster subtilis;3;3;0,335;0,0398;Plectida;Chronogastridae
+80;Plectus acuminatus;3;2;0,8578;0,1332;Plectida;Plectidae
+81;Plectus exinocaudatus;3;2;0,8578;0,1332;Plectida;Plectidae
+82;Plectus parietinus;3;2;0,8578;0,1332;Plectida;Plectidae
+83;Plectus rhizophilus;3;2;0,8578;0,1332;Plectida;Plectidae
+84;Plectus sp.;3;2;0,8578;0,1332;Plectida;Plectidae
+85;Plectus tenuis;3;2;0,8578;0,1332;Plectida;Plectidae
+86;Criconematidae;1;3;0,566;0,0386;Rhabditida;Criconematidae
+87;Hemicycliophora sp.;1;3;0,9216;0,046;Rhabditida;"	Hemicycliophoridae	"
+88;Tylenchida;1;2;0,1592;0,0092;Rhabditida;Tylenchidae
+89;Alaimus primitivus;3;4;0,5606;0,2221;Dorylaimida;Alaimidae
+90;Ironus sp.;5;4;4,7261;1,1031;Enoplida;Ironidae
+91;Ironus tenuicaudatus;5;4;4,7261;1,1031;Enoplida;Ironidae
+92;Paramphidelus sp.;3;4;0,198;0,0459;Dorylaimida;Amphidelidae
+93;Diphtherophora cf. obesa;2;3;0,5039;0,0852;Triplonchida;Diphtherophoridae
+94;Prismatolaimus intermedius;3;3;0,3739;0,165;Triplonchida;"	Prismatolaimidae"
+95;Neotobrilus diversipapillatus;5;3;5,4149;0,8283;Triplonchida;"	Tobrilidae"
+96;Tobrilus sp.;5;3;7,1171;1,6749;Triplonchida;Tobrilidae
+97;Tobrilus pellucidus;5;4;4,7261;1,1031;Triplonchida;Tobrilidae
+98;Achromadora ruricola;5;3;0,3132;0,0956;Chromadorida;Achromadoridae
+99;Achromadora terricola;5;3;0,3132;0,0956;Chromadorida;Achromadoridae
+100;Udonchus cf. tenuicaudatus;3;3;0,0876;0,0245;Plectida;Rhabdolaimidae
