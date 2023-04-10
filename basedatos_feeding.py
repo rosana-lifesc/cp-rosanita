@@ -28,19 +28,21 @@ def create_data():
 
     sp_feed = cp_feeding["SP "]
     cp_feed = cp_feeding["CP"]
+    feeding = cp_feeding["FEEDING"]
 
     sp_clean = sp_feed.apply(split_rosanita)
-    sp_clean_map = pd.DataFrame({"SP": sp_clean, "CP": cp_feed})
+    sp_clean_map = pd.DataFrame({"SP": sp_clean, "FEEDING": feeding})
 
     sp_unique_map = sp_clean_map.drop_duplicates(subset=["SP"], keep="first")
 
-    global_cp_counter = {cp: [] for cp in sp_unique_map["CP"].unique()}
+    global_cp_counter = {cp: [] for cp in sp_unique_map["FEEDING"].unique()}
     for i, row in bichos.iterrows():
-        row_cp_counter = {cp: [] for cp in sp_unique_map["CP"].unique()}
+        row_cp_counter = {cp: [] for cp in sp_unique_map["FEEDING"].unique()}
         for col in bichos.columns:
             clean_col = split_nema(col)
 
-            current_cp = sp_unique_map[sp_unique_map["SP"] == clean_col]["CP"]
+            current_cp = sp_unique_map[sp_unique_map["SP"]
+                                       == clean_col]["FEEDING"]
 
             if len(current_cp.values) <= 0:
                 print(clean_col, col, current_cp)
@@ -53,7 +55,7 @@ def create_data():
 
     # print(global_cp_counter[4])
 
-    master_counter = {cp: [] for cp in sp_unique_map["CP"].unique()}
+    master_counter = {cp: [] for cp in sp_unique_map["FEEDING"].unique()}
     for k, v in global_cp_counter.items():
         np_arr = np.array(v)
         sum = np_arr.sum(axis=1)
@@ -62,7 +64,7 @@ def create_data():
     master_counter["total"] = total_bichos_count.values
 
     output = pd.DataFrame(master_counter, dtype=int)
-    output.to_csv("cp_per_sample.csv", index=False)
+    output.to_csv("FEEDING_per_sample.csv", index=False)
     print(pd.DataFrame(master_counter, dtype=int))
 
 
